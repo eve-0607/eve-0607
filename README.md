@@ -45,13 +45,18 @@ Working closely with [Naman](https://github.com/nitya-naman) on various projects
 - System automation
 - Learning new technologies together
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-<div align="center">
+| Languages | Tools & Frameworks |
+|---|---|
+| Python, JavaScript, TypeScript | React, Next.js, Node.js |
+| C++, C, Rust | PostgreSQL, Prisma |
+| Java, C#, SQL | Git, Docker, Linux |
+| HTML/CSS | Tailwind, Figma |
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eve-0607&show_icons=true&theme=radical)
+## 📈 Activity
 
-</div>
+> *Day 1 — just getting started. Watch this space.*
 
 ---
 
